@@ -1,0 +1,2 @@
+# personal-cgi-assistant
+personal assistant which will execute the required user query when user will give the input as a text It can do simple tasks like open a program for you,open a website for you,clean your screen ,can tell which files are stored in your current folder,shutdown your computer,play music,predict time and tell top headlines for times of india newspaper and much more you can check my code on clicking this link
